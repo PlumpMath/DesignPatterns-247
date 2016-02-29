@@ -41,6 +41,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Model\Auctioneer.cs" />
+    <Compile Include="Model\Bidder.cs" />
+    <Compile Include="Model\IObserver.cs" />
+    <Compile Include="Model\ISubject.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
