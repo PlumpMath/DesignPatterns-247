@@ -1,4 +1,10 @@
-﻿namespace DesignPatterns.Strategy.Model
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace DesignPatterns.Strategy.Model
 {
     public class Robot
     {
